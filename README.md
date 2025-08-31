@@ -1,8 +1,9 @@
 # 👋 Hey Everyone, I'm Deepesh Raghav
 
 <p align="center">
-  <img src="https://i.imgur.com/mX6bM0m.gif" alt="coding gif" width="600"/>
+  <img src="./assets/banner.gif" alt="banner" width="600"/>
 </p>
+
 
 ---
 
